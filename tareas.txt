@@ -1,5 +1,11 @@
-nueva
-nota
-huevos
-leche
-nueva tarea
+dfad,Completada
+fd,Completada
+asdfafd,Completada
+sdfgasdf,Pendiente
+nuevo,Pendiente
+otdorda,Pendiente
+NADAR,Pendiente
+CAMINAR,Pendiente
+COCINAR,Completada
+VER TV,Completada
+COMPRAR ARROZ,Pendiente
